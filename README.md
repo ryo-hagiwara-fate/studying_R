@@ -1,4 +1,4 @@
-#　R学習用リポジトリ
+# R学習用リポジトリ
 
 ## R Studioにこのリポジトリをcloneする方法
 - https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714
