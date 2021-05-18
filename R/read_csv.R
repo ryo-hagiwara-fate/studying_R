@@ -1,9 +1,6 @@
 # csvファイルの読み込み
 # source(""R/read_csv.R",echo=TRUE)
 
-# ライブラリ読み込み
-library(readr)
-
 # データ読み込み
 cv <- read.csv("Dataset/cv.csv",row.names=1)
 
