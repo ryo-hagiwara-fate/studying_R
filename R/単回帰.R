@@ -12,3 +12,7 @@ result <- lm(conv~pop,data=cv)
 
 # 結果表示
 summary(result)
+
+# 表の作成
+plot(conv~pop,data=cv)
+abline(result)
