@@ -37,6 +37,11 @@
   - Rリンク集  
 ![右下](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_4.png) 
 
+### 右上: Environment  
+- 環境変数  
+- 「import Dataset」からデータのインポート・読み込みができる  
+![右上](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_3.png) 
+
 ## RStudioの基本的な使い方  
 
 
