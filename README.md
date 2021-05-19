@@ -8,4 +8,12 @@
 - https://sites.google.com/site/econometricsr/home/rcode
 
 ## RStudioの基本的な使い方  
-https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen.png
+
+- フォルダ作成  
+  ```
+  dir.create("パス")
+  ```
+- ファイル作成  
+  ```
+  file.create("~パス/ファイル名")
+  ```
