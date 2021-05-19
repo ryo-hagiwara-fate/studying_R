@@ -24,8 +24,18 @@
 - Rのコードを記述する場所  
 ![左上](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_1.png)  
 
-
-
+### 右下: File, Plots, Packages, Help  
+- file  
+   -　フォルダ・ファイル一覧  
+   -　フォルダ作成  
+   -　名前の変更など
+- Plots  
+   - 描画・グラフ出力  
+- Packages  
+   - 拡張パッケージの管理  
+- Help  
+  - Rリンク集  
+![右下](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_4.png) 
 
 ## RStudioの基本的な使い方  
 
