@@ -1,5 +1,32 @@
 # R学習用リポジトリ
 
+## RStudioの基本的な使い方  
+### 新しいプロジェクト作成  
+- File > New Project ... > New Directory > New Project  
+- Direcotry name(プロジェクト名)とフォルダの置き場所を設定する  
+![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
+(画像出典:https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/NewProject.html)
+### githubなどからソースコードをcloneする場合  
+- File > New Project... > Version Control > Git  
+- このプロジェクトのurlは`https://github.com/ryo-hagiwara-fate/studying_R.git`
+![Rプロジェクトgitclone](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kato-satoshi-0/20180126/20180126003449.png)  
+(画像出典:https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714)
+
+
+### Conosoleで使用するコマンド一例
+- フォルダ作成  
+  ```
+  dir.create("パス")
+  ```
+- ファイル作成  
+  ```
+  file.create("~パス/ファイル名")
+  ```
+- Rスクリプト実行  
+  ```
+  source("ファイルパスを指定")
+  ```
+
 ## RStudio構成  
 - 参考にした記事  
   - https://kazutan.github.io/JSSP2018_spring/intro_rstudio.html  
@@ -35,32 +62,6 @@
 - 「import Dataset」からデータのインポート・読み込みができる  
 ![右上](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_3.png) 
 
-## RStudioの基本的な使い方  
-### 新しいプロジェクト作成  
-- File > New Project ... > New Directory > New Project  
-- Direcotry name(プロジェクト名)とフォルダの置き場所を設定する  
-![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
-(画像出典:https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/NewProject.html)
-### githubなどからソースコードをcloneする場合  
-- File > New Project... > Version Control > Git  
-- このプロジェクトのurlは`https://github.com/ryo-hagiwara-fate/studying_R.git`
-![Rプロジェクトgitclone](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kato-satoshi-0/20180126/20180126003449.png)  
-(画像出典:https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714)
-
-
-### Conosoleで使用するコマンド一例
-- フォルダ作成  
-  ```
-  dir.create("パス")
-  ```
-- ファイル作成  
-  ```
-  file.create("~パス/ファイル名")
-  ```
-- Rスクリプト実行  
-  ```
-  source("ファイルパスを指定")
-  ```
 
 ## R Studioにこのリポジトリをcloneする方法
 - https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714
