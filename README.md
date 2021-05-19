@@ -6,3 +6,6 @@
 ## 分析用データダウンロード
 以下のurlにアクセスするとcsvファイルを入手することができます
 - https://sites.google.com/site/econometricsr/home/rcode
+
+## RStudioの基本的な使い方  
+https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen.png
