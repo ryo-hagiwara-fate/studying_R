@@ -45,10 +45,14 @@
 ## RStudioの基本的な使い方  
 ### 新しいプロジェクト作成  
 - File > New Project ... > New Directory > New Project  
+- Direcotry name(プロジェクト名)とフォルダの置き場所を設定する  
 ![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
 
+### githubなどからソースコードをcloneする場合  
 
 
+
+### Conosoleで使用するコマンド一例
 - フォルダ作成  
   ```
   dir.create("パス")
