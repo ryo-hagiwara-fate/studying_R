@@ -43,6 +43,9 @@
 ![右上](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_3.png) 
 
 ## RStudioの基本的な使い方  
+### 新しいプロジェクト作成  
+- File > New Project ... > New Directory > New Project  
+![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
 
 
 
