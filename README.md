@@ -8,6 +8,8 @@
 - https://sites.google.com/site/econometricsr/home/rcode
 
 ## RStudio構成  
+- 参考にした記事  
+  - https://kazutan.github.io/JSSP2018_spring/intro_rstudio.html  
 ### 画面全体
 ![全体](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen.png)
 
@@ -16,6 +18,13 @@
 - コマンドを記述して実行する  
 - 結果の出力  
 ![左下](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_2.png)
+
+### 左上: Source Editor
+- Rのスクリプトやファイルなどを編集  
+- Rのコードを記述する場所  
+![左上](https://kazutan.github.io/JSSP2018_spring/pics/rstudio_screen_1.png)  
+
+
 
 
 ## RStudioの基本的な使い方  
