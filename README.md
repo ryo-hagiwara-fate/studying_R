@@ -1,12 +1,5 @@
 # R学習用リポジトリ
 
-## R Studioにこのリポジトリをcloneする方法
-- https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714
-
-## 分析用データダウンロード
-以下のurlにアクセスするとcsvファイルを入手することができます
-- https://sites.google.com/site/econometricsr/home/rcode
-
 ## RStudio構成  
 - 参考にした記事  
   - https://kazutan.github.io/JSSP2018_spring/intro_rstudio.html  
@@ -68,3 +61,10 @@
   ```
   source("ファイルパスを指定")
   ```
+
+## R Studioにこのリポジトリをcloneする方法
+- https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714
+
+## 教科書分析用データダウンロード
+以下のurlにアクセスするとcsvファイルを入手することができます
+- https://sites.google.com/site/econometricsr/home/rcode
