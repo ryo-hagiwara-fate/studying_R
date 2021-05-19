@@ -49,6 +49,10 @@
 ![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
 
 ### githubなどからソースコードをcloneする場合  
+- File > New Project... > Version Control > Git  
+- このプロジェクトのurlは
+![Rプロジェクトgitclone](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kato-satoshi-0/20180126/20180126003449.png)  
+
 
 
 
