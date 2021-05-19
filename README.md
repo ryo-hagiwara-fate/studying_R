@@ -50,7 +50,7 @@
 
 ### githubなどからソースコードをcloneする場合  
 - File > New Project... > Version Control > Git  
-- このプロジェクトのurlは
+- このプロジェクトのurlは`https://github.com/ryo-hagiwara-fate/studying_R.git`
 ![Rプロジェクトgitclone](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kato-satoshi-0/20180126/20180126003449.png)  
 
 
