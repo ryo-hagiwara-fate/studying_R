@@ -47,13 +47,12 @@
 - File > New Project ... > New Directory > New Project  
 - Direcotry name(プロジェクト名)とフォルダの置き場所を設定する  
 ![Rプロジェクト設定](https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/Images/003-005.png)  
-
+(画像出典:https://vdlz.xyz/Illust/Chart/RL/RStudio/GetStart/NewProject.html)
 ### githubなどからソースコードをcloneする場合  
 - File > New Project... > Version Control > Git  
 - このプロジェクトのurlは`https://github.com/ryo-hagiwara-fate/studying_R.git`
 ![Rプロジェクトgitclone](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kato-satoshi-0/20180126/20180126003449.png)  
-
-
+(画像出典:https://kato-kohaku-0.hatenablog.com/entry/2018/01/26/004714)
 
 
 ### Conosoleで使用するコマンド一例
